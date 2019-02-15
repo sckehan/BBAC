@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('check out') {
                 steps{
-                  echo 'test'
+                  echo 'in the BBAC file'
               }
         }
     }
